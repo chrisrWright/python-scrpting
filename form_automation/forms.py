@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from names import form_data
 
 # set up the driver
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(r'C:\Users\chris\Documents\drivers\chromedriver.exe')
 
 # navigate to the form
 driver.get("https://docs.google.com/forms/d/e/1FAIpQLSd9Kzwm25rRKIvQSig3pzX_rEi7nIYMRJAqUf6dT6_s4QqlNw/viewform")
