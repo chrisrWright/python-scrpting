@@ -3,6 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 from selenium.webdriver.common.by import By
 from names import form_data
+import pytest
 
 # set up the driver
 driver = webdriver.Chrome(r'C:\Users\chris\Documents\drivers\chromedriver.exe')
@@ -26,6 +27,9 @@ for data in form_data:
     submit_button = driver.find_element(By.XPATH, '//*[@id="mG61Hd"]/div[2]/div/div[3]/div[1]/div[1]/div')
     submit_button.click()
 
+    
+
+   
     driver.get("https://docs.google.com/forms/d/e/1FAIpQLSd9Kzwm25rRKIvQSig3pzX_rEi7nIYMRJAqUf6dT6_s4QqlNw/viewform")
   
     time.sleep(1)
