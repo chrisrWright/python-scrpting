@@ -1,0 +1,1 @@
+This is a simple webscraper that scrapes BBC news website for the headlines of that day. Then these headlines are put into a csv file.
