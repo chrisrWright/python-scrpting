@@ -1,0 +1,17 @@
+Department,Category,Quarter,Value
+Sales,Product A,Q1,45
+Sales,Product A,Q2,56
+Sales,Product B,Q1,32
+Sales,Product B,Q2,41
+Marketing,Campaign X,Q1,78
+Marketing,Campaign X,Q2,92
+Marketing,Campaign Y,Q1,65
+Marketing,Campaign Y,Q2,81
+Finance,Budget,Q1,62
+Finance,Budget,Q2,55
+Finance,Expenses,Q1,30
+Finance,Expenses,Q2,45
+Operations,Process 1,Q1,34
+Operations,Process 1,Q2,27
+Operations,Process 2,Q1,40
+Operations,Process 2,Q2,38
