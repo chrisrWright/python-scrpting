@@ -4,13 +4,12 @@
 Explore a dynamic assortment of Python scripts tailored to address a spectrum of business needs in this repository. Key features include:
 
 Data Manipulation:
-
 Effortlessly manipulate and transform datasets for comprehensive analysis.
+
 Web Scraping Tools:
-
 Extract valuable information from websites with precision and ease.
-Graph Generation:
 
+Graph Generation:
 Craft visually compelling graphs to convey insights effectively.
 Adapt and customize charts swiftly to meet evolving business requirements.
 Adaptable Learning:
